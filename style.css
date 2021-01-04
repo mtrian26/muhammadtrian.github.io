@@ -1,0 +1,27 @@
+.jumbotron img {
+width : 200px;
+border:5px solid #990000;
+}
+.jumbotron {
+background-image:url(download-MacBook-Air-2018-Wallpapers-1-e1531978392311.jpg);
+color:#FFFFFF;
+}
+hr{
+width : 250px;
+border-top:	3px solid #FF0000;
+}
+SECTION{
+min-height:600PX;
+}
+.portfolio{
+background-color:#999999;
+color:#FFFFFF;
+}
+
+.footer{
+background-color:#333333;
+height:30px;
+color:#FFFFFF;
+padding:3px;
+text-align:center;
+}
